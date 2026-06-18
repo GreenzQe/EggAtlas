@@ -1,0 +1,109 @@
+{
+  "file": "animations\\ei_value_slam_x.rpa",
+  "magic": "RPA1",
+  "num_tracks": 1,
+  "tracks": [
+    {
+      "type": 0,
+      "keyframe_count": 16,
+      "keyframes": [
+        {
+          "time": 0.0,
+          "value": 0.0,
+          "tangent_in": 0.0,
+          "tangent_out": -0.0
+        },
+        {
+          "time": 0.0166667,
+          "value": 0.0056992,
+          "tangent_in": 0.0,
+          "tangent_out": -0.0
+        },
+        {
+          "time": 0.0333333,
+          "value": 0.0218643,
+          "tangent_in": 0.0,
+          "tangent_out": -0.0
+        },
+        {
+          "time": 0.05,
+          "value": 0.0473989,
+          "tangent_in": 0.0,
+          "tangent_out": -0.0
+        },
+        {
+          "time": 0.0666667,
+          "value": 0.0815172,
+          "tangent_in": 0.0,
+          "tangent_out": -0.0
+        },
+        {
+          "time": 0.0833333,
+          "value": 0.1236678,
+          "tangent_in": 0.0,
+          "tangent_out": -0.0
+        },
+        {
+          "time": 0.1,
+          "value": 0.1734886,
+          "tangent_in": 0.0,
+          "tangent_out": -0.0
+        },
+        {
+          "time": 0.1166667,
+          "value": 0.2307815,
+          "tangent_in": 0.0,
+          "tangent_out": -0.0
+        },
+        {
+          "time": 0.1333333,
+          "value": 0.2955036,
+          "tangent_in": 0.0,
+          "tangent_out": -0.0
+        },
+        {
+          "time": 0.15,
+          "value": 0.3677723,
+          "tangent_in": 0.0,
+          "tangent_out": -0.0
+        },
+        {
+          "time": 0.1666667,
+          "value": 0.447888,
+          "tangent_in": 0.0,
+          "tangent_out": -0.0
+        },
+        {
+          "time": 0.1833333,
+          "value": 0.5363794,
+          "tangent_in": 0.0,
+          "tangent_out": -0.0
+        },
+        {
+          "time": 0.2,
+          "value": 0.634087,
+          "tangent_in": 0.0,
+          "tangent_out": -0.0
+        },
+        {
+          "time": 0.2166667,
+          "value": 0.7423159,
+          "tangent_in": 0.0,
+          "tangent_out": -0.0
+        },
+        {
+          "time": 0.2333333,
+          "value": 0.8631327,
+          "tangent_in": 0.0,
+          "tangent_out": -0.0
+        },
+        {
+          "time": 0.25,
+          "value": 1.0,
+          "tangent_in": 0.0,
+          "tangent_out": -0.0
+        }
+      ]
+    }
+  ]
+}

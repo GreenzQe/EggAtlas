@@ -1,0 +1,775 @@
+{
+  "file": "animations\\ui_transition_in.rpa",
+  "magic": "RPA1",
+  "num_tracks": 4,
+  "tracks": [
+    {
+      "type": 1,
+      "keyframe_count": 31,
+      "keyframes": [
+        {
+          "time": 0.0166667,
+          "value": -70.1921082,
+          "tangent_in": 43.1828308,
+          "tangent_out": -138.9606781
+        },
+        {
+          "time": 0.0333333,
+          "value": -56.6780014,
+          "tangent_in": 34.7063446,
+          "tangent_out": -135.9295654
+        },
+        {
+          "time": 0.05,
+          "value": -47.2406044,
+          "tangent_in": 28.8239021,
+          "tangent_out": -132.008728
+        },
+        {
+          "time": 0.0666667,
+          "value": -39.9243622,
+          "tangent_in": 24.285471,
+          "tangent_out": -127.2026291
+        },
+        {
+          "time": 0.0833333,
+          "value": -33.9697266,
+          "tangent_in": 20.6065617,
+          "tangent_out": -121.545166
+        },
+        {
+          "time": 0.1,
+          "value": -28.9862003,
+          "tangent_in": 17.5385971,
+          "tangent_out": -115.1050262
+        },
+        {
+          "time": 0.1166667,
+          "value": -24.7412796,
+          "tangent_in": 14.9338484,
+          "tangent_out": -107.9878006
+        },
+        {
+          "time": 0.1333333,
+          "value": -21.0831451,
+          "tangent_in": 12.6960173,
+          "tangent_out": -100.3329773
+        },
+        {
+          "time": 0.15,
+          "value": -17.9061356,
+          "tangent_in": 10.7581863,
+          "tangent_out": -92.3054123
+        },
+        {
+          "time": 0.1666667,
+          "value": -15.1331501,
+          "tangent_in": 9.0716009,
+          "tangent_out": -84.0823059
+        },
+        {
+          "time": 0.1833333,
+          "value": -12.7058945,
+          "tangent_in": 7.5994215,
+          "tangent_out": -75.8384476
+        },
+        {
+          "time": 0.2,
+          "value": -10.5789785,
+          "tangent_in": 6.3130169,
+          "tangent_out": -67.733017
+        },
+        {
+          "time": 0.2166667,
+          "value": -8.7162552,
+          "tangent_in": 5.1895766,
+          "tangent_out": -59.9003487
+        },
+        {
+          "time": 0.2333333,
+          "value": -7.088367,
+          "tangent_in": 4.2105885,
+          "tangent_out": -52.44561
+        },
+        {
+          "time": 0.25,
+          "value": -5.6710696,
+          "tangent_in": 3.3607628,
+          "tangent_out": -45.444725
+        },
+        {
+          "time": 0.2666667,
+          "value": -4.4440761,
+          "tangent_in": 2.6272964,
+          "tangent_out": -38.9473839
+        },
+        {
+          "time": 0.2833334,
+          "value": -3.3901978,
+          "tangent_in": 1.9993234,
+          "tangent_out": -32.9814415
+        },
+        {
+          "time": 0.3,
+          "value": -2.4947174,
+          "tangent_in": 1.4675227,
+          "tangent_out": -27.5576839
+        },
+        {
+          "time": 0.3166667,
+          "value": -1.7449166,
+          "tangent_in": 1.0238129,
+          "tangent_out": -22.6743031
+        },
+        {
+          "time": 0.3333333,
+          "value": -1.12972,
+          "tangent_in": 0.6611262,
+          "tangent_out": -18.3206043
+        },
+        {
+          "time": 0.35,
+          "value": -0.6394059,
+          "tangent_in": 0.3732126,
+          "tangent_out": -14.4800291
+        },
+        {
+          "time": 0.3666667,
+          "value": -0.2653719,
+          "tangent_in": 0.1545012,
+          "tangent_out": -11.1323042
+        },
+        {
+          "time": 0.3833334,
+          "value": 0.0,
+          "tangent_in": -0.0,
+          "tangent_out": -8.2551908
+        },
+        {
+          "time": 0.4,
+          "value": 0.0,
+          "tangent_in": -0.0,
+          "tangent_out": -5.8255734
+        },
+        {
+          "time": 0.4166667,
+          "value": 0.0,
+          "tangent_in": -0.0,
+          "tangent_out": -3.8202746
+        },
+        {
+          "time": 0.4333334,
+          "value": 0.0,
+          "tangent_in": -0.0,
+          "tangent_out": -2.2166634
+        },
+        {
+          "time": 0.45,
+          "value": 0.0,
+          "tangent_in": -0.0,
+          "tangent_out": -0.9928781
+        },
+        {
+          "time": 0.4666667,
+          "value": 0.0,
+          "tangent_in": -0.0,
+          "tangent_out": -0.1281025
+        },
+        {
+          "time": 0.4833333,
+          "value": 0.0,
+          "tangent_in": -0.0,
+          "tangent_out": 0.397345
+        },
+        {
+          "time": 0.5,
+          "value": 0.0,
+          "tangent_in": -0.0,
+          "tangent_out": 0.6019887
+        },
+        {
+          "time": 0.0,
+          "value": -96.0598984,
+          "tangent_in": 66.8935776,
+          "tangent_out": -167.3201294
+        }
+      ]
+    },
+    {
+      "type": 3,
+      "keyframe_count": 31,
+      "keyframes": [
+        {
+          "time": 0.0166667,
+          "value": -56.3087769,
+          "tangent_in": 43.4282494,
+          "tangent_out": -168.3694458
+        },
+        {
+          "time": 0.0333333,
+          "value": -41.4198456,
+          "tangent_in": 34.9638748,
+          "tangent_out": -167.0057068
+        },
+        {
+          "time": 0.05,
+          "value": -30.3608341,
+          "tangent_in": 29.0884171,
+          "tangent_out": -164.161499
+        },
+        {
+          "time": 0.0666667,
+          "value": -21.0509491,
+          "tangent_in": 24.5521889,
+          "tangent_out": -159.930542
+        },
+        {
+          "time": 0.0833333,
+          "value": -12.6882248,
+          "tangent_in": 20.8705978,
+          "tangent_out": -154.3312988
+        },
+        {
+          "time": 0.1,
+          "value": -4.9119797,
+          "tangent_in": 17.7949905,
+          "tangent_out": -147.3916473
+        },
+        {
+          "time": 0.1166667,
+          "value": 2.4056435,
+          "tangent_in": 15.1778793,
+          "tangent_out": -139.1939697
+        },
+        {
+          "time": 0.1333333,
+          "value": 9.2530746,
+          "tangent_in": 12.9236584,
+          "tangent_out": -129.9047699
+        },
+        {
+          "time": 0.15,
+          "value": 15.5541573,
+          "tangent_in": 10.9665003,
+          "tangent_out": -119.7782288
+        },
+        {
+          "time": 0.1666667,
+          "value": 21.232481,
+          "tangent_in": 9.2589111,
+          "tangent_out": -109.1274185
+        },
+        {
+          "time": 0.1833333,
+          "value": 26.2496719,
+          "tangent_in": 7.7652102,
+          "tangent_out": -98.2770615
+        },
+        {
+          "time": 0.2,
+          "value": 30.6130486,
+          "tangent_in": 6.4576755,
+          "tangent_out": -87.5212097
+        },
+        {
+          "time": 0.2166667,
+          "value": 34.3644257,
+          "tangent_in": 5.3141127,
+          "tangent_out": -77.0990143
+        },
+        {
+          "time": 0.2333333,
+          "value": 37.5640144,
+          "tangent_in": 4.3163896,
+          "tangent_out": -67.1882858
+        },
+        {
+          "time": 0.25,
+          "value": 40.2775345,
+          "tangent_in": 3.4494107,
+          "tangent_out": -57.9104004
+        },
+        {
+          "time": 0.2666667,
+          "value": 42.5681572,
+          "tangent_in": 2.7004585,
+          "tangent_out": -49.3401375
+        },
+        {
+          "time": 0.2833334,
+          "value": 44.4926224,
+          "tangent_in": 2.0586774,
+          "tangent_out": -41.5163383
+        },
+        {
+          "time": 0.3,
+          "value": 46.0998268,
+          "tangent_in": 1.5147091,
+          "tangent_out": -34.4515457
+        },
+        {
+          "time": 0.3166667,
+          "value": 47.4308701,
+          "tangent_in": 1.0604171,
+          "tangent_out": -28.1399689
+        },
+        {
+          "time": 0.3333333,
+          "value": 48.5196152,
+          "tangent_in": 0.6886622,
+          "tangent_out": -22.5635414
+        },
+        {
+          "time": 0.35,
+          "value": 49.3937263,
+          "tangent_in": 0.3931174,
+          "tangent_out": -17.6964283
+        },
+        {
+          "time": 0.3666667,
+          "value": 50.0754738,
+          "tangent_in": 0.1681345,
+          "tangent_out": -13.5082111
+        },
+        {
+          "time": 0.3833334,
+          "value": 50.5826225,
+          "tangent_in": 0.0086439,
+          "tangent_out": -9.9661798
+        },
+        {
+          "time": 0.4,
+          "value": 50.7656479,
+          "tangent_in": 0.0048599,
+          "tangent_out": -7.0367894
+        },
+        {
+          "time": 0.4166667,
+          "value": 50.8946609,
+          "tangent_in": 0.0022063,
+          "tangent_out": -4.6866293
+        },
+        {
+          "time": 0.4333334,
+          "value": 50.9724083,
+          "tangent_in": 0.0006101,
+          "tangent_out": -2.8831458
+        },
+        {
+          "time": 0.45,
+          "value": 51.0,
+          "tangent_in": -1.6e-06,
+          "tangent_out": -1.5948679
+        },
+        {
+          "time": 0.4666667,
+          "value": 51.0,
+          "tangent_in": -1.6e-06,
+          "tangent_out": -0.7300922
+        },
+        {
+          "time": 0.4833333,
+          "value": 51.0,
+          "tangent_in": -1.6e-06,
+          "tangent_out": -0.2046448
+        },
+        {
+          "time": 0.5,
+          "value": 51.0,
+          "tangent_in": -1.6e-06,
+          "tangent_out": -1e-06
+        },
+        {
+          "time": 0.0,
+          "value": -91.414505,
+          "tangent_in": 87.62854,
+          "tangent_out": -133.0783539
+        }
+      ]
+    },
+    {
+      "type": 3,
+      "keyframe_count": 31,
+      "keyframes": [
+        {
+          "time": 0.0166667,
+          "value": -51.3647957,
+          "tangent_in": 66.7966003,
+          "tangent_out": -129.861084
+        },
+        {
+          "time": 0.0333333,
+          "value": -37.0087357,
+          "tangent_in": 60.0664673,
+          "tangent_out": -126.048172
+        },
+        {
+          "time": 0.05,
+          "value": -27.3094902,
+          "tangent_in": 55.8302994,
+          "tangent_out": -121.3103943
+        },
+        {
+          "time": 0.0666667,
+          "value": -20.2794552,
+          "tangent_in": 52.9851608,
+          "tangent_out": -115.6285248
+        },
+        {
+          "time": 0.0833333,
+          "value": -15.1693573,
+          "tangent_in": 51.0985756,
+          "tangent_out": -109.0857697
+        },
+        {
+          "time": 0.1,
+          "value": -11.574419,
+          "tangent_in": 49.9213638,
+          "tangent_out": -101.8552246
+        },
+        {
+          "time": 0.1166667,
+          "value": -9.1852074,
+          "tangent_in": 49.2632866,
+          "tangent_out": -94.1776733
+        },
+        {
+          "time": 0.1333333,
+          "value": -7.6989946,
+          "tangent_in": 48.9577637,
+          "tangent_out": -86.315033
+        },
+        {
+          "time": 0.15,
+          "value": -6.8119717,
+          "tangent_in": 48.8623619,
+          "tangent_out": -78.4960556
+        },
+        {
+          "time": 0.1666667,
+          "value": -6.253952,
+          "tangent_in": 48.8693237,
+          "tangent_out": -70.8837814
+        },
+        {
+          "time": 0.1833333,
+          "value": -5.8235612,
+          "tangent_in": 48.9097672,
+          "tangent_out": -63.5766449
+        },
+        {
+          "time": 0.2,
+          "value": -5.3984714,
+          "tangent_in": 48.9479294,
+          "tangent_out": -56.6291046
+        },
+        {
+          "time": 0.2166667,
+          "value": -4.9225931,
+          "tangent_in": 48.9705544,
+          "tangent_out": -50.0722542
+        },
+        {
+          "time": 0.2333333,
+          "value": -4.3843279,
+          "tangent_in": 48.977005,
+          "tangent_out": -43.9258232
+        },
+        {
+          "time": 0.25,
+          "value": -3.7967544,
+          "tangent_in": 48.9723167,
+          "tangent_out": -38.2028046
+        },
+        {
+          "time": 0.2666667,
+          "value": -3.1836667,
+          "tangent_in": 48.9632301,
+          "tangent_out": -32.9105492
+        },
+        {
+          "time": 0.2833334,
+          "value": -2.5712364,
+          "tangent_in": 48.9561081,
+          "tangent_out": -28.0508995
+        },
+        {
+          "time": 0.3,
+          "value": -1.9836671,
+          "tangent_in": 48.9560738,
+          "tangent_out": -23.6205082
+        },
+        {
+          "time": 0.3166667,
+          "value": -1.4413142,
+          "tangent_in": 48.9668007,
+          "tangent_out": -19.6115723
+        },
+        {
+          "time": 0.3333333,
+          "value": -0.9601783,
+          "tangent_in": 48.9904861,
+          "tangent_out": -16.0127144
+        },
+        {
+          "time": 0.35,
+          "value": -0.5520746,
+          "tangent_in": 49.0280266,
+          "tangent_out": -12.8099985
+        },
+        {
+          "time": 0.3666667,
+          "value": -0.2250844,
+          "tangent_in": 49.0792274,
+          "tangent_out": -9.98769
+        },
+        {
+          "time": 0.3833334,
+          "value": 0.0158387,
+          "tangent_in": 49.1429634,
+          "tangent_out": -7.52911
+        },
+        {
+          "time": 0.4,
+          "value": 0.0048326,
+          "tangent_in": 49.3121529,
+          "tangent_out": -5.417161
+        },
+        {
+          "time": 0.4166667,
+          "value": 0.0009249,
+          "tangent_in": 49.4339104,
+          "tangent_out": -3.6347735
+        },
+        {
+          "time": 0.4333334,
+          "value": 5.37e-05,
+          "tangent_in": 49.5089569,
+          "tangent_out": -2.1653457
+        },
+        {
+          "time": 0.45,
+          "value": 0.0,
+          "tangent_in": 49.5373535,
+          "tangent_out": -0.9928831
+        },
+        {
+          "time": 0.4666667,
+          "value": 0.0,
+          "tangent_in": 49.5373535,
+          "tangent_out": -0.1281075
+        },
+        {
+          "time": 0.4833333,
+          "value": 0.0,
+          "tangent_in": 49.5373535,
+          "tangent_out": 0.39734
+        },
+        {
+          "time": 0.5,
+          "value": 0.0,
+          "tangent_in": 49.5373535,
+          "tangent_out": 0.6019837
+        },
+        {
+          "time": 0.0,
+          "value": 0.566789,
+          "tangent_in": 0.566789,
+          "tangent_out": -0.0
+        }
+      ]
+    },
+    {
+      "type": 3,
+      "keyframe_count": 31,
+      "keyframes": [
+        {
+          "time": 0.0166667,
+          "value": 0.6377654,
+          "tangent_in": 0.6375293,
+          "tangent_out": 0.1276325
+        },
+        {
+          "time": 0.0333333,
+          "value": 0.6789479,
+          "tangent_in": 0.6786145,
+          "tangent_out": 0.2115005
+        },
+        {
+          "time": 0.05,
+          "value": 0.7121812,
+          "tangent_in": 0.7117861,
+          "tangent_out": 0.2818269
+        },
+        {
+          "time": 0.0666667,
+          "value": 0.7409192,
+          "tangent_in": 0.7404816,
+          "tangent_out": 0.3441472
+        },
+        {
+          "time": 0.0833333,
+          "value": 0.7665516,
+          "tangent_in": 0.7660845,
+          "tangent_out": 0.4007554
+        },
+        {
+          "time": 0.1,
+          "value": 0.7898055,
+          "tangent_in": 0.7893183,
+          "tangent_out": 0.4528744
+        },
+        {
+          "time": 0.1166667,
+          "value": 0.8111175,
+          "tangent_in": 0.8106176,
+          "tangent_out": 0.5012501
+        },
+        {
+          "time": 0.1333333,
+          "value": 0.8307734,
+          "tangent_in": 0.830267,
+          "tangent_out": 0.5463777
+        },
+        {
+          "time": 0.15,
+          "value": 0.8489713,
+          "tangent_in": 0.8484636,
+          "tangent_out": 0.5886055
+        },
+        {
+          "time": 0.1666667,
+          "value": 0.8658544,
+          "tangent_in": 0.86535,
+          "tangent_out": 0.6281887
+        },
+        {
+          "time": 0.1833333,
+          "value": 0.8815292,
+          "tangent_in": 0.881032,
+          "tangent_out": 0.6653203
+        },
+        {
+          "time": 0.2,
+          "value": 0.8960764,
+          "tangent_in": 0.8955902,
+          "tangent_out": 0.7001493
+        },
+        {
+          "time": 0.2166667,
+          "value": 0.9095581,
+          "tangent_in": 0.9090862,
+          "tangent_out": 0.7327933
+        },
+        {
+          "time": 0.2333333,
+          "value": 0.9220224,
+          "tangent_in": 0.9215679,
+          "tangent_out": 0.7633457
+        },
+        {
+          "time": 0.25,
+          "value": 0.9335067,
+          "tangent_in": 0.9330725,
+          "tangent_out": 0.7918814
+        },
+        {
+          "time": 0.2666667,
+          "value": 0.9440395,
+          "tangent_in": 0.9436284,
+          "tangent_out": 0.8184609
+        },
+        {
+          "time": 0.2833334,
+          "value": 0.9536427,
+          "tangent_in": 0.9532573,
+          "tangent_out": 0.8431332
+        },
+        {
+          "time": 0.3,
+          "value": 0.9623321,
+          "tangent_in": 0.9619749,
+          "tangent_out": 0.8659375
+        },
+        {
+          "time": 0.3166667,
+          "value": 0.9701187,
+          "tangent_in": 0.9697921,
+          "tangent_out": 0.8869051
+        },
+        {
+          "time": 0.3333333,
+          "value": 0.9770092,
+          "tangent_in": 0.9767156,
+          "tangent_out": 0.9060606
+        },
+        {
+          "time": 0.35,
+          "value": 0.9830066,
+          "tangent_in": 0.9827483,
+          "tangent_out": 0.9234229
+        },
+        {
+          "time": 0.3666667,
+          "value": 0.9881104,
+          "tangent_in": 0.9878896,
+          "tangent_out": 0.9390058
+        },
+        {
+          "time": 0.3833334,
+          "value": 0.9923171,
+          "tangent_in": 0.9921361,
+          "tangent_out": 0.9528188
+        },
+        {
+          "time": 0.4,
+          "value": 0.99562,
+          "tangent_in": 0.995481,
+          "tangent_out": 0.9648672
+        },
+        {
+          "time": 0.4166667,
+          "value": 0.99801,
+          "tangent_in": 0.9979151,
+          "tangent_out": 0.9751533
+        },
+        {
+          "time": 0.4333334,
+          "value": 0.9994749,
+          "tangent_in": 0.9994264,
+          "tangent_out": 0.9836755
+        },
+        {
+          "time": 0.45,
+          "value": 1.0,
+          "tangent_in": 1.0,
+          "tangent_out": 0.9904296
+        },
+        {
+          "time": 0.4666667,
+          "value": 1.0,
+          "tangent_in": 1.0,
+          "tangent_out": 0.9954086
+        },
+        {
+          "time": 0.4833333,
+          "value": 1.0,
+          "tangent_in": 1.0,
+          "tangent_out": 0.9986028
+        },
+        {
+          "time": 0.5,
+          "value": 1.0,
+          "tangent_in": 1.0,
+          "tangent_out": 1.0
+        },
+        {
+          "time": 0.0,
+          "value": 0.0,
+          "tangent_in": 0.0,
+          "tangent_out": 0.0
+        }
+      ]
+    }
+  ]
+}
